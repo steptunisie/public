@@ -1,0 +1,22 @@
+[09-Aug-2016 05:23:34 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/makook/public_html/eya/Public/v4/Modeles/Categorie.php on line 28
+[09-Aug-2016 05:24:57 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'makook_dbmakook'@'localhost' (using password: YES) in /home/makook/public_html/eya/Public/v4/Modeles/Categorie.php on line 28
+[09-Aug-2016 05:28:07 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'makook_dbmakook'@'localhost' (using password: YES) in /home/makook/public_html/eya/Public/v4/Modeles/Categorie.php on line 28
+[09-Aug-2016 05:29:48 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /home/makook/public_html/eya/Public/v4/Modeles/Categorie.php on line 44
+[09-Aug-2016 05:31:52 America/Chicago] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/makook/public_html/eya/Public/v4/Views/createannonce.php on line 38
+[09-Aug-2016 05:34:13 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/makook/public_html/eya/Public/v4/Modeles/Categorie.php on line 44
+[09-Aug-2016 05:35:14 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_result::mysqli_fetch_assoc() in /home/makook/public_html/eya/Public/v4/Modeles/Categorie.php on line 44
+[09-Aug-2016 05:59:51 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/makook/public_html/eya/Public/v4/Modeles/Categorie.php on line 28
+[09-Aug-2016 06:00:00 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/makook/public_html/eya/Public/v4/Modeles/Categorie.php on line 28
+[09-Aug-2016 06:01:02 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/makook/public_html/eya/Public/v4/Modeles/Categorie.php on line 28
+[09-Aug-2016 06:01:08 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/makook/public_html/eya/Public/v4/Modeles/Categorie.php on line 28
+[09-Aug-2016 06:06:08 America/Chicago] PHP Fatal error:  Call to a member function select() on a non-object in /home/makook/public_html/eya/Public/v4/Modeles/Categorie.php on line 31
+[09-Aug-2016 06:06:13 America/Chicago] PHP Fatal error:  Call to a member function select() on a non-object in /home/makook/public_html/eya/Public/v4/Modeles/Categorie.php on line 31
+[09-Aug-2016 06:06:26 America/Chicago] PHP Fatal error:  Call to a member function select() on a non-object in /home/makook/public_html/eya/Public/v4/Modeles/Categorie.php on line 31
+[09-Aug-2016 06:07:02 America/Chicago] PHP Fatal error:  Call to a member function select() on a non-object in /home/makook/public_html/eya/Public/v4/Modeles/Categorie.php on line 31
+[09-Aug-2016 06:07:22 America/Chicago] PHP Fatal error:  Call to a member function select() on a non-object in /home/makook/public_html/eya/Public/v4/Modeles/Categorie.php on line 31
+[09-Aug-2016 06:07:23 America/Chicago] PHP Fatal error:  Call to a member function select() on a non-object in /home/makook/public_html/eya/Public/v4/Modeles/Categorie.php on line 31
+[09-Aug-2016 06:07:23 America/Chicago] PHP Fatal error:  Call to a member function select() on a non-object in /home/makook/public_html/eya/Public/v4/Modeles/Categorie.php on line 31
+[09-Aug-2016 06:09:27 America/Chicago] PHP Fatal error:  Call to a member function select() on a non-object in /home/makook/public_html/eya/Public/v4/Modeles/Categorie.php on line 31
+[09-Aug-2016 06:10:19 America/Chicago] PHP Fatal error:  Call to a member function select() on a non-object in /home/makook/public_html/eya/Public/v4/Modeles/Categorie.php on line 31
+[09-Aug-2016 06:11:07 America/Chicago] PHP Fatal error:  Call to a member function select() on a non-object in /home/makook/public_html/eya/Public/v4/Modeles/Categorie.php on line 31
+[09-Aug-2016 09:00:59 America/Chicago] PHP Parse error:  syntax error, unexpected '@' in /home/makook/public_html/eya/Public/v4/Views/createannonce.php on line 240
